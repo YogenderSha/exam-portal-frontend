@@ -2,6 +2,7 @@
 
 This project is the Angular SPA frontend for the Exam Portal application which is an Angular + Spring Boot + MySql full stack application where users can answer timed quizzes along multiple categories. The application also has admin functionality where admins can add quiz categories and specific quizzes to the categories.Question can be individually added to quizzes. 
 
+EXAM PORTAL BACKEND : https://github.com/YogenderSha/Exam-Portal-Backend
 
 Bootstrap is used primarily for css with material UI.
 
