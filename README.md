@@ -13,7 +13,7 @@ Role Based Access control implemented using 2 access levels - User and Admin
 
 Both users can access the user profile page.
 
-<img src="![pro-3](https://github.com/YogenderSha/exam-portal-frontend/assets/98138437/741a2398-3431-4ce2-be9f-86471c5a25c7)" 
+<img src="https://github.com/YogenderSha/exam-portal-frontend/blob/main/pro-3.png" 
      width="700" 
      height="300" />
 <img src="![pro-4](https://github.com/YogenderSha/exam-portal-frontend/assets/98138437/64102514-892c-41b3-a08e-3f8046f5aaa5)" 
