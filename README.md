@@ -13,6 +13,15 @@ Role Based Access control implemented using 2 access levels - User and Admin
 
 Both users can access the user profile page.
 
+<img src="![pro-3](https://github.com/YogenderSha/exam-portal-frontend/assets/98138437/741a2398-3431-4ce2-be9f-86471c5a25c7)" 
+     width="700" 
+     height="300" />
+<img src="![pro-4](https://github.com/YogenderSha/exam-portal-frontend/assets/98138437/64102514-892c-41b3-a08e-3f8046f5aaa5)" 
+     width="700" 
+     height="300" />
+
+
+
 To communicate with the backend, httpclient module is used. Basic access allows users to access landing page, user signup page and login page (unified for user and admin). 
 After successful login and signup, user is provided with jwt token from backend with appropriate authorisation according to the credentials provided.
 Frontend uses interceptor on evry request that required elevated access (user/admin).
